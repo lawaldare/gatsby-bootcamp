@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'logo';
+  src: url('../fonts//logo.ttf');
+}
+
+
+.active-item {
+  background: rgb(238, 78, 50);
+  border-bottom: 3px solid black;
+  color: black !important;
+  font-weight: bold;
+}
+
+.brand-logo {
+  font-family: 'logo';
+  letter-spacing: 2px;
+  color: black !important;
+  font-size: 1.5rem !important;
+}
