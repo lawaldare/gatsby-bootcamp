@@ -13,9 +13,6 @@ const IndexPage = () => {
       <div className="container">
         <h1>Hello</h1>
         <h2>I'm Dare Lawal, a Software Engineer living in Nigeria</h2>
-        <p>
-          Need a developer? <Link to="/contact">Contact me</Link>
-        </p>
       </div>
     </Layout>
   )
